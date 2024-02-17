@@ -11,7 +11,7 @@
   - 공부한 내용 정리
   - 인상 깊은 점
   - 새로 알게된 개념
-- 스터디 당일에 랜덤으로 3명을 정해 관련 내용 발표 및 질의 응답
+- 스터디 당일에 랜덤으로 3명을 정해 관련 내용 발표(15~20분) 및 질의 응답(10분) 
 - [시작하기 가이드](https://hexagonal-protocol-50e.notion.site/aaa2607a601647278e763141a4010a51?pvs=4)
 
 <br />
@@ -39,16 +39,15 @@
 
 ## 📌 모임 장소 및 날짜
 
-- 장소: 잠실 스터디룸
-- 날짜: 매주 일요일 5시
+- 장소: 잠실 스터디룸 
+- 날짜: 매주 일요일 5시 ~ 6시 30분
 
 <br />
 
 ## ✅ 규칙
 
-- 불가피하게 불참할 경우, 스터디 장에게 **늦어도 일주일 전에 미리 알려주세요.** 모든 인원이 참여 가능하도록 최대한 조율하여 진행합니다.
-- 지각할 경우, 스터디장(최소희)에게 미리 알려주세요.
-- 성실한 참여를 위해 1만원의 보증금을 받고, 지각이나 불참 시 차감합니다.
+- 불가피하게 불참하거나 지각할 경우, 스터디 장에게 **늦어도 일주일 전에 미리 알려주세요.**
+- 성실한 참여를 위해 1만원의 보증금을 받고, 사전 고지 없이 지각이나 불참 시 1천원씩 차감합니다.
 
 <br />
 
@@ -70,6 +69,21 @@
       <a href="https://github.com/taejin-k"><img height="100px" width="100px" src="https://github.com/taejin-k.png""/></a>
       <br />
       <a href="https://github.com/taejin-k">김태진</a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/chuhoon"><img height="100px" width="100px" src="https://github.com/chuhoon.png""/></a>
+      <br />
+      <a href="https://github.com/chuhoon">추경훈</a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/headring"><img height="100px" width="100px" src="https://github.com/headring.png""/></a>
+      <br />
+      <a href="https://github.com/headring">김상현</a>
+    </td>
+     <td align="center">
+      <a href="https://github.com/hansejun"><img height="100px" width="100px" src="https://github.com/hansejun.png""/></a>
+      <br />
+      <a href="https://github.com/hansejun">한세준</a>
     </td>
   </tr>
 </table>
