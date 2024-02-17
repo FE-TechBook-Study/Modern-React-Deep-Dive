@@ -1,12 +1,17 @@
 # Modern-React-Deep-Dive
 
-## 💫 진행방식
+> **프론트엔드 개발에 관한 서적을 읽고 공유하며 성장**하는 스터디로,
+> 책을 통한 학습과 서로의 경험을 나누며 더 나은 프론트엔드 개발자가 되고자 합니다.
 
-**스터디 전**
+
+## 💫 진행방식
 
 - 해당 주차의 모던 리액트 Deep Dive 분량 읽고 관련 추가 내용 조사
 - 깃허브 각 주차 폴더의 `본인 [이름.md](http://이름.md)` 파일에 공부한 내용 정리해 올리기
-- 스터디 당일에 랜덤으로 3명을 정해 관련 내용 발표
+  - 공부한 내용 정리
+  - 인상 깊은 점
+  - 새로 알게된 개념
+- 스터디 당일에 랜덤으로 3명을 정해 관련 내용 발표 및 질의 응답
 - [시작하기 가이드](https://hexagonal-protocol-50e.notion.site/aaa2607a601647278e763141a4010a51?pvs=4)
 
 <br />
@@ -60,6 +65,11 @@
       <a href="https://github.com/huisso97"><img height="100px" width="100px" src="https://github.com/huisso97.png""/></a>
       <br />
       <a href="https://github.com/huisso97">최소희</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/taejin-k"><img height="100px" width="100px" src="https://github.com/taejin-k.png""/></a>
+      <br />
+      <a href="https://github.com/taejin-k">김태진</a>
     </td>
   </tr>
 </table>
